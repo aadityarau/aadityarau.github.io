@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2020-thermo-lab
 venue: "JHU, Department of Mechanical Engineering"
-date: 2021-09-01
+date: 2020-09-01
 location: "Baltimore, MD"
 ---
 
