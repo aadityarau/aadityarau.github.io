@@ -2,7 +2,7 @@
 title: "16.001: Unified Engineering (Materials and Structures)"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2023_unified
+permalink: /teaching/2023-unified
 venue: "MIT, Department of Aeronautics and Astronautics"
 date: 2023-09-01
 location: "Cambridge, MA"
